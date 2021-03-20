@@ -2,8 +2,8 @@
 ### 📿 Hi there, I'm Mike Shafter (a.k.a. Mineshafter61)
 Welcome to my GitHub page! Some of the projects I've done are listed below.
 
-[![Mineshafter61's github stats](https://github-readme-stats.vercel.app/api?username=Mineshafter61)](https://github.com/anuraghazra/github-readme-stats)\
-[![Mineshafter61's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mineshafter61)](https://github.com/anuraghazra/github-readme-stats)
+[![Mineshafter61's github stats](https://github-readme-stats.vercel.app/api?username=Mineshafter61&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)\
+[![Mineshafter61's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mineshafter61&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 

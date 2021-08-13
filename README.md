@@ -25,6 +25,8 @@ else {
   // statements
 }
 ```
+For Python, use underscores instead of CamelCase, except in the case of Classes.
+
 If the statement in an if-else block has only 1 line, put it on the same line as the condition. This also applies for loops. Always use a for-loop whenever possible. Use an underscore (if the language allows) for variables that will never be used but must be present for code to work.
 
 <hr>

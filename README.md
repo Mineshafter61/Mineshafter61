@@ -2,6 +2,8 @@
 ### 📿 Hi there, I'm Mike Shafter (a.k.a. Mineshafter61)
 [![Discord](https://img.shields.io/discord/590800544214286347?color=blue&label=Find%20me%20on%20Discord&style=for-the-badge)](https://discord.gg/ykrbZga)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C577S8D)
+
 Welcome to my GitHub page! Some of the projects I've done are listed below.
 
 [![Mineshafter61's github stats](https://github-readme-stats.vercel.app/api?username=Mineshafter61&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)\
